@@ -2,7 +2,7 @@
 <pre><p>Tools untuk melakukan mass bruteforce dengan username dan password default (admin|pass) juga bisa dikatakan weak password.
 Kenapa saya bilang default? karna biasanya emang gitu kalo install wordpress dari cpanel, dahlah gausah banyak bacot, males.
 
-# Instalasi
+<h4>Instalasi dan Jalankan Tools</h4>
 apt update && apt upgrade -y
 apt install git -y
 apt install python3 -y
