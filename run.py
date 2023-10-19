@@ -11,7 +11,7 @@ print(f"""{Fore.YELLOW}
   / /|_/ / _ \/ __ `/ __ `/ | /| / / /_/ / / / / _ \/ /_  
  / /  / /  __/ /_/ / /_/ /| |/ |/ / ____/ /_/ /  __/ __/  
 /_/  /_/\___/\__, /\__,_/ |__/|__/_/   /_____/\___/_/ {Fore.YELLOW}
-            /____/  {Fore.WHITE}(c) Rafaeyfa | WordPress Default Username/Password (username:admin | password: pass)\n""")
+            /____/  {Fore.WHITE}(c) Rafaeyfa1337 | WordPress Default Username/Password (username:admin | password: pass)\n""")
 listmega = input("Website list: ")
 def brute_force(url):
     try:
