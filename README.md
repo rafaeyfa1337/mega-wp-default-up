@@ -11,4 +11,5 @@ git clone https://github.com/rafaeyfa1337/mega-wp-default-up/
 cd mega-wp-default-up
 python3 run.py
 
+<img src="https://i.imgur.com/BRxKZK5.jpg" width="30%"></img>
 Dah, pake aja toolsnya tanpa niat mau ngerecode!!</p></pre>
