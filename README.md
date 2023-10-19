@@ -1,5 +1,5 @@
 # Mega WordPress Default Username & Password (Mass)
-<pre><p>Tools untuk melakukan mass bruteforce dengan username dan password default (admin|pass) juga bisa dikatakan weak password.
+Tools untuk melakukan mass bruteforce dengan username dan password default (admin|pass) juga bisa dikatakan weak password.
 Kenapa saya bilang default? karna biasanya emang gitu kalo install wordpress dari cpanel, dahlah gausah banyak bacot, males.
 
 <h4>Instalasi dan Jalankan Tools</h4>
@@ -12,4 +12,4 @@ cd mega-wp-default-up
 python3 run.py
 
 <img src="https://i.imgur.com/BRxKZK5.jpg" width="30%"></img>
-Dah, pake aja toolsnya tanpa niat mau ngerecode!!</p></pre>
+Dah, pake aja toolsnya tanpa niat mau ngerecode!!
